@@ -9,3 +9,6 @@ Removing: <br>
 Fixed: <br>
 - Copyright year will now update every year and will no longer be hard coded 
 - Indentation in email testing
+
+Added: <br>
+New admin user in Admin Panel
