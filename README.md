@@ -9,6 +9,8 @@ Removing: <br>
 Fixed: <br>
 - Copyright year will now update every year and will no longer be hard coded 
 - Indentation in email testing
+- Admin routes with namespacing 
+- dash routes with namespacing
 
 Added: <br>
-New admin user in Admin Panel
+- New admin user in Admin Panel
